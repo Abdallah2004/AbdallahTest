@@ -1,0 +1,9 @@
+git --version
+
+git config --global user.name "Abdallah2004"
+
+git config --global user.email "akhayoussef@gmail.com"
+
+git init
+
+git status
