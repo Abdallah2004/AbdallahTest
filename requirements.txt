@@ -86,7 +86,7 @@ parso==0.5.1
 partd==1.0.0
 pathlib2==2.3.5
 pickleshare==0.7.5
-Pillow==6.2.1
+Pillow==8.1.1
 plotly==4.3.0
 pluggy==0.13.0
 prompt-toolkit==2.0.10
